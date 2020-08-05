@@ -1,3 +1,3 @@
 # Implementing the paper "Generative Adversarial Nets"
 
-![] (gan_training.gif)
+<img src ="gan_training.gif" >
